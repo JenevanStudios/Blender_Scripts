@@ -1,1 +1,3 @@
-D:\Program Files\Blender Foundation\Blender
+C:\Program Files\Blender Foundation\Blender\blender.exe
+C:\temp\wip
+C:\temp\Render
